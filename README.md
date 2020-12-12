@@ -4,4 +4,4 @@
 
 Be sure to check my little project:
 
-[![NOJ Card](https://github-readme-stats.vercel.app/api/pin/?username=zsgsdesign&repo=NOJ&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![NOJ Card](https://github-readme-stats.vercel.app/api/pin/?username=zsgsdesign&repo=NOJ&show_owner=true)](https://github.com/ZsgsDeisng/NOJ)

@@ -4,7 +4,6 @@
 
 Streak stats:
 
-[![ZsgsDesign's github streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ZsgsDesign&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 <!-- Top Langs: -->
 
